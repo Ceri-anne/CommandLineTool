@@ -2,8 +2,8 @@
 //  main.swift
 //  CommandLineTool
 //
-//  Created by Jackson, Ceri-anne (Associate Software Developer) on 31/08/2018.
-//  Copyright © 2018 Jackson, Ceri-anne. All rights reserved.
+//  Created by Ceri-anne Jackson on 31/08/2018.
+//  Copyright © 2018 Ceri-anne Jackson. All rights reserved.
 //
 
 func run() {
